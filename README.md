@@ -13,3 +13,11 @@ Comparison of unfolding with ompy and mama. Contains three datasets:
 - 145Nd: Comparison of unfolded data + of folded to raw
 - 145Nd_artificial: Created a fake raw spectrum with `raw_fake = R * raw` and unfold this
 - 28Si: Comparison of unfolded data + of folded to raw
+
+### first generation:
+Get primaries from all generation spectra and compare to the tru primaries:
+- Spectrum generated (by dicebox(?)) from AC
+- Other simple mock spectra
+
+
+

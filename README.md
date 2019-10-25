@@ -16,7 +16,7 @@ Comparison of unfolding with ompy and mama. Contains three datasets:
 
 ### first generation:
 Get primaries from all generation spectra and compare to the tru primaries:
-- Spectrum generated (by dicebox(?)) from AC
+- Simple spectrum, idea from Ann-Cecilie (Larsen2011)
 - Other simple mock spectra
 
 

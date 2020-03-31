@@ -19,6 +19,9 @@ Get primaries from all generation spectra and compare to the tru primaries:
 - Simple spectrum, idea from Ann-Cecilie (Larsen2011)
 - Other simple mock spectra
 
+### estimate uncertainty:
+Compare different ways to estimate the uncertainty: Either estimate it directly after decomposition, or normalize each ensemble member separately
+
 ### development:
 - unfolding_fbu:
   A first test run to show that we can now (easily) use different unfolding algorithms, like [fully bayesian unfolding](https://arxiv.org/abs/1201.4612). The priors and other sampler parameters are probably not chosen very smart in this case -- I just wanted to see whether it works in general. And it does so.

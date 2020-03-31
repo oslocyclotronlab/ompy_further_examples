@@ -1,3 +1,9 @@
 [submodule "ompy"]
 	path = ompy
 	url = https://github.com/oslocyclotronlab/ompy/
+[submodule "article2020/ompy"]
+	path = article2020/ompy
+	url = https://github.com/oslocyclotronlab/ompy/
+[submodule "estimate_uncertainty/ompy"]
+	path = estimate_uncertainty/ompy
+	url = https://github.com/oslocyclotronlab/ompy/

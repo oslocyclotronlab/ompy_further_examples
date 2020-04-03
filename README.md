@@ -22,6 +22,9 @@ Get primaries from all generation spectra and compare to the tru primaries:
 ### estimate uncertainty:
 Compare different ways to estimate the uncertainty: Either estimate it directly after decomposition, or normalize each ensemble member separately
 
+### check_linearity_unfolding_1gen:
+A small check on whether the unfolding and first generation method are linear or not. They turn out not to be linear.
+
 ### development:
 - unfolding_fbu:
   A first test run to show that we can now (easily) use different unfolding algorithms, like [fully bayesian unfolding](https://arxiv.org/abs/1201.4612). The priors and other sampler parameters are probably not chosen very smart in this case -- I just wanted to see whether it works in general. And it does so.
